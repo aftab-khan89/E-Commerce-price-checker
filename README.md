@@ -1,1 +1,1 @@
-# E-Commerce-price-checker
+# E-Commerce-Product-Price-Checker
